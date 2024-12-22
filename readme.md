@@ -9,5 +9,5 @@
 - Atividade pode ser acessada entrando na branch: exercicio-css.
 
 <p align="center">
-    <img src="atividade.png">
+    <img src="./imagens/atividade.png">
 </p>
